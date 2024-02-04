@@ -1,5 +1,5 @@
 {
-    "default_model": "pony.safetensors",
+    "default_model": "realsm.safetensors",
     "default_refiner": "None",
     "default_refiner_switch": 0.5,
     "default_loras": [
@@ -32,13 +32,13 @@
     "default_prompt": "",
     "default_prompt_negative": "cartoon, anime, painting, illustration,  cropped, ugly, duplicate, morbid, mutilated, out of frame, extra fingers, mutated hands, poorly drawn hands, poorly drawn face, mutation, deformed, dehydrated, bad anatomy, bad proportions, extra limbs, cloned face, disfigured, gross proportions, malformed limbs, missing arms, missing legs, extra arms, extra legs, fused fingers, too many fingers, long neck, username, watermark, signature",
     "default_styles": [
-        "Fooocus V2",
-        "Fooocus Enhance",
-        "Fooocus Sharp"
+        "",
+        "",
+        ""
     ],
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
-        "pony.safetensors": "https://civitai.com/api/download/models/290640"
+        "realsm.safetensors": "https://civitai.com/api/download/models/293240"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
